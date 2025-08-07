@@ -94,4 +94,13 @@ Decryption requires the exact password and IV.
 
 OUTPUT(INTEGRITY):
 
+![Image](https://github.com/user-attachments/assets/de213b71-4766-4ca9-bb79-279f9564f141)
+
+
+
+OUTPUT(VULNERIBILITY)
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aeaa41ea-cbb7-4951-9f7a-2ca11f748898" />
+
 
