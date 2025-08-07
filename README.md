@@ -79,3 +79,7 @@ Key is derived from this password using SHA-256.
 File is encrypted in blocks with padding and saved with .enc extension.
 
 Decryption requires the exact password and IV.
+
+  OUTPUT(SCANNER):
+  
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dd7b5a04-369b-4db5-8107-776404c44464" />
