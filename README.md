@@ -83,3 +83,15 @@ Decryption requires the exact password and IV.
   OUTPUT(SCANNER):
   
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dd7b5a04-369b-4db5-8107-776404c44464" />
+
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4fd3419c-8c36-4954-9650-415ee2afe9b2" />
+
+
+
+  OUTPUT(AES ALGORITHM):
+
+   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2a7e0e4e-b4a0-4c06-be88-dbf1cfbfd201" />
+
+OUTPUT(INTEGRITY):
+
+
